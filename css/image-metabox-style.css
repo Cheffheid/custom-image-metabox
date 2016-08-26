@@ -1,0 +1,12 @@
+.jj_img_metabox .clear {
+  background: none;
+  border: 1px solid transparent;
+  color: #a94442;
+  vertical-align: top;
+}
+
+.jj_img_metabox .clear:hover,
+.jj_img_metabox .clear:focus {
+  cursor: pointer;
+  border-color: #a94442;
+}
