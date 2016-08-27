@@ -22,7 +22,7 @@
  * @link       http://cheffism.com
  * @since      1.0.0
  *
- * @package    Post_Series_Manager
+ * @package    image_metabox
  */
 
 // If uninstall not called from WordPress, then exit.
