@@ -20,7 +20,6 @@ var JJImageMetabox = (function ($) {
   };
 
   var render = function (id, attachment) {
-    console.log(id, attachment);
     if (attachment) {
       $(id + ' .hidden').removeClass('hidden');
       var $img = $(id + ' .img_preview img');
